@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(248, 248, 248);
+
+    
+}
+body {
+    display: flex;
+    text-align: center;  
+}
+p{
+    color: rgb(0, 0, 0);
+}
+ul {
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+}
+h2 {
+    background-color: rgb(96, 159, 159);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    
+}
+input {
+    background-color: aquamarine;
+    color: black;
+}
+#agregar__tarea {
+    background-color: rgb(67, 144, 79);
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+#mostrar__tarea {
+    background-color: rgb(61, 131, 134);
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+#agregar_tarea{
+    background-color: rgb(154, 72, 17);
+    padding: 30%;
+}
